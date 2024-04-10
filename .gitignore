@@ -1,0 +1,12 @@
+# node files
+node_modules
+package-lock.json
+
+# compiled files
+src/*.js
+
+# database files
+*.sqlite
+
+# os files
+.DS_Store

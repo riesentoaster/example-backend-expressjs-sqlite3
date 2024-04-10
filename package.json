@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "tsc && node src/app.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "@types/express": "*",
+    "@types/sqlite3": "*",
+    "express": "*",
+    "nanoid": "*",
+    "sqlite3": "*",
+    "typescript": "*"
+  }
+}
